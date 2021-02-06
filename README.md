@@ -1,4 +1,4 @@
-# Demo for restoring SQL Backup in containerized SQL Server using Docker 
+# Restore SQL Backup in containerized SQL Server using Docker 
 <ol>
   <li>Generate a sample database and back it up as dappertrial.bak using SQL Server Management Studio</li>
   <li>Write the corresponding dockerfile and restore-backup.sql</li>
